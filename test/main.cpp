@@ -11,5 +11,7 @@ int main()
 	cafe.menu_order();
 	cafe.menu_total();
 
+	cout << "ธÞที";
+
 	return 0;
 } 
