@@ -1,2 +1,8 @@
-﻿  DlgTest.cpp
-  MExDlg.vcxproj -> C:\work\MExDlg\x64\Debug\MExDlg.exe
+﻿  pch.cpp
+  DlgTest.cpp
+  MainFrm.cpp
+  MExDlg.cpp
+  MExDlgDoc.cpp
+  MExDlgView.cpp
+  코드를 생성하고 있습니다...
+  MExDlg.vcxproj -> C:\work\MFC\MExDlg\x64\Debug\MExDlg.exe
