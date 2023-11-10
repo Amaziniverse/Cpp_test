@@ -1,0 +1,4 @@
+C:\work\231024\x64\Debug\test.exe
+C:\work\엄예진\x64\Debug\test.exe
+C:\work\test\x64\Debug\test.exe
+C:\work\test\Cafe\x64\Debug\test.exe
